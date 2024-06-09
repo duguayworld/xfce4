@@ -113,6 +113,7 @@ XFCE4 PANEL
 	opacity: 1;
 } 
 
+/*That Systray css is not working - I need to find the proper approach
 #Systray-6#org.freedesktop.network-manager-applet  {
 	background: transparent;
 	border: 1px transparent;
@@ -120,7 +121,7 @@ XFCE4 PANEL
         border-bottom-right-radius: 4px;
         border-top-left-radius: 4px;
         border-top-right-radius: 4px;
-}
+}*/
 
 /*Whisker*/
 #whiskermenu-34 {
