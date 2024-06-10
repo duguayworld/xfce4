@@ -1,29 +1,29 @@
 # Default colors
 [colors.primary]
 background = '#0C0A16'
-foreground = '#D7C0CF'
+foreground = '#f5faff'
 
 # Normal colors
 [colors.normal]
-black   = '#3F3F3F'
-red     = '#705050'
-green   = '#60B48A'
-yellow  = '#DFAF8F'
-blue    =  '#11EFF5'
-magenta = '#DC8CC3'
-cyan    = '#8CD0D3'
-white   = '#DCDCCC'
+black   = '#22242e'
+red     = '#ff79c6'
+green   = '#c3fcb0'
+yellow  = '#f5faff'
+blue    = '#bd93f9'
+magenta = '#ff79c6'
+cyan    = '#8be9fd'
+white   = '#f5faff'
 
 # Bright colors
 [colors.bright]
-black   = '#3F3F3F'
-red     = '#DCA3A3'
-green   = '#72D5A3'
-yellow  = '#F0DFAF'
-blue    = '#9AB8D7'
-magenta = '#EC93D3'
-cyan    = '#93E0E3'
-white   = '#FFFFFF'
+black   = '#312437'
+red     = '#a93f2e'
+green   = '#c3fcb0'
+yellow  = '#f5faff'
+blue    = '#8be9fd'
+magenta = '#bd93f9'
+cyan    = '#8be9fd'
+white   = '#ffffff'
 
 [env]
 WINIT_X11_SCALE_FACTOR = "1.0"
